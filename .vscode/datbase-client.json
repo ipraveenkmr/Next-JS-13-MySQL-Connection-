@@ -1,0 +1,43 @@
+{
+    "database.connections": {
+        "1691768196352": {
+            "host": "82.180.143.204",
+            "dbPath": "",
+            "port": "3306",
+            "user": "u868100252_trickuweb",
+            "authType": "default",
+            "password": "Trickuweb@99",
+            "encoding": "utf8",
+            "clientKeyPath": null,
+            "clientCertPath": null,
+            "caPath": null,
+            "database": "u868100252_trickuwebdb",
+            "useSSL": false,
+            "usingSSH": false,
+            "showHidden": false,
+            "includeDatabases": null,
+            "dbType": "MySQL",
+            "encrypt": true,
+            "isCluster": false,
+            "connectionUrl": "",
+            "srv": false,
+            "esAuth": "none",
+            "global": false,
+            "key": "1691768196352",
+            "timezone": "+00:00",
+            "ssh": {
+                "host": "",
+                "privateKeyPath": "C:\\Users\\Hp\\.ssh\\id_rsa",
+                "port": 22,
+                "username": "root",
+                "type": "password",
+                "connectTimeout": 10000,
+                "algorithms": {
+                    "cipher": []
+                }
+            },
+            "name": "Trickuweb Test DB",
+            "connectionKey": "database.connections"
+        }
+    }
+}
